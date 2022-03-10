@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc E $VARNAME -o c (-E to make the code run only after load -o to rename)
++gcc -E $CFILE -o c
